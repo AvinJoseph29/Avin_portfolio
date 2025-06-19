@@ -4,10 +4,7 @@ Welcome to my data portfolio! Here, I showcase a summary of my projects in the d
 
 ## 📚 Table of Contents
 - [Data Engineering Projects](#data-engineering-projects)
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau / BI Tools](#tableau--bi-tools)
-- [Technical Guides](#technical-guides)
+
 
 ---
 
@@ -22,16 +19,4 @@ Welcome to my data portfolio! Here, I showcase a summary of my projects in the d
 
 > 🔧 *More projects coming soon...*
 
----
 
-## SQL
-Coming soon.
-
-## Python
-Coming soon.
-
-## Tableau / BI Tools
-Coming soon.
-
-## Technical Guides
-Coming soon.
