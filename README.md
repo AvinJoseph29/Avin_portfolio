@@ -21,4 +21,12 @@ Welcome to my data portfolio! Here, I showcase a summary of my projects in the d
 
 > 🔧 *More projects coming soon...*
 
+---
 
+# AI Engineering Projects
+
+| Project Link | Tools | Description |
+|---|---|---|
+| 🤖 [Financial Anomaly Investigation AI Agent](https://github.com/AvinJoseph29/financial-anomaly-ai-agent) | Python, LangGraph, LangChain, Neo4j, FastAPI, ChromaDB, RAG, LLMs, Docker, D3.js, React, Vite | Built a multi-agent AI system that automates financial anomaly investigations by orchestrating planning, retrieval, graph reasoning, financial analysis, and report generation. The agent combines RAG over SEC filings, Neo4j knowledge graph traversal, financial ratio calculations (including Altman Z-Score), and tool orchestration through LangGraph to produce auditor-style investigation reports with citations and an interactive knowledge graph visualization. |
+
+> 🚀 *More AI Engineering projects coming soon...*
