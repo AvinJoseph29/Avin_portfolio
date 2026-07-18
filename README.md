@@ -1,9 +1,10 @@
 # 🗺 Avin's Data Portfolio
 
-Welcome to my data portfolio! Here, I showcase a summary of my projects in the data engineering field.
+Welcome to my engineering portfolio! Here, I showcase a collection of projects across Data Engineering and AI Engineering, covering modern data platforms, cloud-native architectures, and production-inspired agentic AI systems.
 
 ## 📚 Table of Contents
 - [Data Engineering Projects](#data-engineering-projects)
+- [AI Engineering Projects](#ai-engineering-projects)
 
 
 ---
@@ -27,6 +28,7 @@ Welcome to my data portfolio! Here, I showcase a summary of my projects in the d
 
 | Project Link | Tools | Description |
 |---|---|---|
+| 🏦 [Settlement Sentinel — Agentic AI for Payment Settlement Investigation](https://github.com/AvinJoseph29/Settlement-Sentinel) | Python, LangGraph, MCP, FastAPI, PostgreSQL, Neo4j, Qdrant, RAG, Langfuse, Groq, Docker, React, Vite | Built a production-inspired multi-agent AI system that autonomously investigates merchant payment settlement failures using relational, graph, and vector databases. The system orchestrates specialized agents for retrieval, graph reasoning, policy-aware analysis, confidence scoring, and automated bank operations through Model Context Protocol (MCP), with real-time streaming, Slack notifications, and end-to-end observability via Langfuse. |
 | 🤖 [Financial Anomaly Investigation AI Agent](https://github.com/AvinJoseph29/financial-anomaly-ai-agent) | Python, LangGraph, LangChain, Neo4j, FastAPI, ChromaDB, RAG, LLMs, Docker, D3.js, React, Vite | Built a multi-agent AI system that automates financial anomaly investigations by orchestrating planning, retrieval, graph reasoning, financial analysis, and report generation. The agent combines RAG over SEC filings, Neo4j knowledge graph traversal, financial ratio calculations (including Altman Z-Score), and tool orchestration through LangGraph to produce auditor-style investigation reports with citations and an interactive knowledge graph visualization. |
 
 > 🚀 *More AI Engineering projects coming soon...*
