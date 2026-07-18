@@ -1,4 +1,5 @@
-# 🗺 Avin's Data Portfolio
+# 🗺 Avin's Portfolio
+### Data & AI Engineer
 
 Welcome to my engineering portfolio! Here, I showcase a collection of projects across Data Engineering and AI Engineering, covering modern data platforms, cloud-native architectures, and production-inspired agentic AI systems.
 
